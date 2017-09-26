@@ -1,0 +1,6 @@
+[submodule "ios-socket-server"]
+	path = ios-socket-server
+	url = https://github.com/ShuangliZhang/ios-socket-server.git
+[submodule "ios-socket-client"]
+	path = ios-socket-client
+	url = https://github.com/ShuangliZhang/ios-socket-client.git
