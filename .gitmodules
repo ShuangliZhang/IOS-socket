@@ -4,3 +4,6 @@
 [submodule "ios-socket-client"]
 	path = ios-socket-client
 	url = https://github.com/ShuangliZhang/ios-socket-client.git
+[submodule "macos-socket-server"]
+	path = macos-socket-server
+	url = https://github.com/ShuangliZhang/macos-socket-server.git
